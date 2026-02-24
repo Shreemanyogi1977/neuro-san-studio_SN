@@ -74,7 +74,7 @@
             "handlers": [
                 "console"
             ],
-            "propagate": "no"
+            "propagate": false
         },
 
         # Turn on logging for coded_tools
