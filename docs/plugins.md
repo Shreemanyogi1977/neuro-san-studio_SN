@@ -26,7 +26,8 @@ authorization.
 
 ## Observability
 
-Observability plugins provide insights into the behavior and performance of Agent Networks, allowing developers to monitor and analyze their networks in real-time.
+Observability plugins provide insights into the behavior and performance of Agent Networks,
+allowing developers to monitor and analyze their networks in real-time.
 
 ### Arize Phoenix
 
