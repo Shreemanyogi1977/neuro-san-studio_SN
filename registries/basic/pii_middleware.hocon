@@ -88,6 +88,7 @@ but you will actually do nothing with the message.
                         # Not really the greatest detector, but good enough for this example
                         "detector": "[a-zA-Z0-9]{3}-[a-zA-Z0-9]{4}",
                         "strategy": "redact",
+                        "apply_to_input": false,
                         "apply_to_output": true
                     }
                 }
