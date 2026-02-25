@@ -22,7 +22,7 @@
     # Optional metadata describing this agent network
     "metadata": {
         "description": "Example to show use of PII middleware",
-        "tags": ["middleware"],
+        "tags": ["basic", "example", "middleware"],
         "sample_queries": [
             """
 Send a message to Jenny at 867-5309.

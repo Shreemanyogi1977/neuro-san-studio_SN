@@ -149,11 +149,15 @@ This is a good example to:
 demonstrates how one agent can call another using a basic hocon file.
 Given specific input, there is a good chance you will get output something like "Hello World!".
 
+**Tags:** `basic` `example`
+
 ### PII Middleware
 
 [PII Middleware](examples/basic/pii_middleware.md) is an agent network that demonstrates the use of PII redaction
 via AgentMiddleware.  This just scratches the surface of what you can do with middleware, but it is the
 simplest example to learn how to integrate middleware.
+
+**Tags:** `basic` `example` `middleware`
 
 ## 🧰 Tool Integration Examples
 
