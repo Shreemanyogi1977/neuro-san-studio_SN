@@ -151,7 +151,7 @@ Given specific input, there is a good chance you will get output something like 
 
 ### PII Middleware
 
-[PII Middleware](examples/basic/pi.md) is an agent network that demonstrates the use of PII redaction
+[PII Middleware](examples/basic/pii_middleware.md) is an agent network that demonstrates the use of PII redaction
 via AgentMiddleware.  This just scratches the surface of what you can do with middleware, but it is the
 simplest example to learn how to integrate middleware.
 
